@@ -14,7 +14,7 @@ export default {
         {
             _id: '2',  
             name: 'Nike',
-            image: '../images/d2.png',
+            image: 'https://images.lojanike.com.br/260x260/produto/53793_506533_20190616132947.png',
             category: 'sports shoes',
             price: 'R$ 149',
             brand: 'XR5 Style',
@@ -25,7 +25,7 @@ export default {
         {
             _id: '3',  
             name: 'Adidas',
-            image: '../images/d2.png',
+            image: 'https://images.lojanike.com.br/440x440/produto/258632_2293001_20200713175929.png',
             category: 'sports shoes',
             price: 'R$ 269',
             brand: 'Nova Run',
@@ -36,7 +36,7 @@ export default {
         {
             _id: '4',  
             name: 'Adidas',
-            image: '../images/d2.png',
+            image: 'https://images.lojanike.com.br/440x440/produto/238244_2190920_20200527153519.png',
             category: 'sports shoes',
             price: 'R$ 159',
             brand: 'Advantage Base',
@@ -47,7 +47,7 @@ export default {
         {
             _id: '5',  
             name: 'Nike',
-            image: '../images/d2.png',
+            image: 'https://images.lojanike.com.br/440x440/produto/239116_2392730_20200803101936.png',
             category: 'sports shoes',
             price: 'R$ 129',
             brand: 'Revolution 5',
