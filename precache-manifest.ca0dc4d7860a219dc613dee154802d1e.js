@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52a10b424e525d5bcfa13a1f2ea588e0",
+    "revision": "794fc1c449d27425167aaa2cb93d7771",
     "url": "/github-create-app-shoes-2/index.html"
   },
   {
-    "revision": "b11ed326ea061fe0a1fb",
+    "revision": "765356e58210badd04a2",
     "url": "/github-create-app-shoes-2/static/css/main.c3d207b2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github-create-app-shoes-2/static/js/2.434dabed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b11ed326ea061fe0a1fb",
-    "url": "/github-create-app-shoes-2/static/js/main.79918647.chunk.js"
+    "revision": "765356e58210badd04a2",
+    "url": "/github-create-app-shoes-2/static/js/main.a4e7be97.chunk.js"
   },
   {
     "revision": "f71b0a2cd25097d0f3ab",
